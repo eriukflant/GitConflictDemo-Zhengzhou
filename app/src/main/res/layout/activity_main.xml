@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:text="@string/first_button"
         android:textColor="@android:color/white"
-        android:backgroundTint="@color/button_default" />
+        android:backgroundTint="#F44336" />
 
     <Button
         android:id="@+id/secondButton"
@@ -32,6 +32,6 @@
         android:layout_marginTop="16dp"
         android:text="@string/second_button"
         android:textColor="@android:color/white"
-        android:backgroundTint="@color/button_default" />
+        android:backgroundTint="#F44336" />
 
 </LinearLayout>
