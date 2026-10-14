@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:text="@string/first_button"
         android:textColor="@android:color/white"
-        android:backgroundTint="#4CAF50" />
+        android:backgroundTint="#F44336" />
 
     <Button
         android:id="@+id/secondButton"
